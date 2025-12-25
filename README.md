@@ -61,5 +61,3 @@ This repository contains multiple machine learning projects in Python, demonstra
 > Each project demonstrates a complete ML workflow and can be used as a reference for understanding practical applications of Exploratory Data Analysis for machine learning.
 
 ---
-
-## 📁 Repository Structure
