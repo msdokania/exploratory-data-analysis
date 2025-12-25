@@ -12,7 +12,7 @@ This repository contains multiple machine learning projects in Python, demonstra
 - **Dataset:** COVID-19 global dataset with daily case counts.
 - **Highlights:** 
   - Visual insights for trends and spikes
-- **Link to Project:** [COVID-19 Project README](./covid19-analysis/README.md)
+- **Link to Project:** [COVID-19 Project README](./covid-analysis/README.md)
 
 ---
 
@@ -38,7 +38,7 @@ This repository contains multiple machine learning projects in Python, demonstra
   - Feature scaling for gradient-based models
   - Model evaluation using confusion matrix, precision, recall, F1-score
   - Insights for business decisions to reduce churn
-- **Link to Project:** [Customer Churn Prediction README](./customer-churn-prediction/README.md)
+- **Link to Project:** [Customer Churn Prediction README](./customer-churn-analysis/README.md)
 
 ---
 
