@@ -1,4 +1,4 @@
-# My Machine Learning Projects
+# Machine Learning - Basic Exploratory Data Analysis Projects
 
 This repository contains multiple machine learning projects in Python, demonstrating end-to-end workflows including **data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and interpretation**. Each project uses real-world datasets and illustrates different ML tasks such as classification, regression, and predictive analysis.
 
